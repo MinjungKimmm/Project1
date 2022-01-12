@@ -73,6 +73,7 @@ function App() {
       {/* 컨텐츠 end */}
 
       {/* footer start */}
+      <div>footer</div>
       {/* footer end */}
 
       <Modal></Modal>
